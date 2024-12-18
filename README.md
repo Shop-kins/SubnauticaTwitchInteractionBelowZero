@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SubnauticaTwitchInteractionMod
 
 A mod for Subnautica that allows Twitch Chat to interact with the game. Works either via direct connection to Twitch or using [Crowd Control](https://crowdcontrol.live/).
@@ -61,3 +62,6 @@ Use the [Crowd Control SDK](https://forum.warp.world/t/how-to-setup-and-use-the-
 5. Click on `Connect` at the bottom of the left hand side
 6. Run Subnautica, and it should connect automatically
 7. Once it is running, you can use the Play button to create an effect (with an optional delay)
+=======
+# SubnauticaTwitchInteractionBelowZero
+>>>>>>> e4ce8da (Initial commit)
