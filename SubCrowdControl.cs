@@ -40,7 +40,7 @@ public class Subnautica : SimpleTCPPack
         new Effect("Invert Controls (60 seconds)", "invert_controls"),
         new Effect("Disable Controls (10 seconds)", "disable_controls"),
         new Effect("Random FOV (60 seconds)", "random_fov"),
-        new Effect("Be careful Riley (60 seconds)", "ohko"),
+        new Effect("Be careful Robin (60 seconds)", "ohko"),
         new Effect("Go REALLY fast (60 seconds)", "go_really_fast"),
     };
 }
