@@ -38,6 +38,8 @@ namespace TwitchInteraction
             { "ohko", EventCodes.ONE_HIT_MODE },
             { "go_really_fast", EventCodes.SPEED },
             { "custom_beacon", EventCodes.BEACON },
+            { "respawn_player", EventCodes.RESPAWN_PLAYER },
+            { "drop_lifepod", EventCodes.DROP_LIFEPOD }
         };
 
         internal static void MessageReceived(int sender, string message)
